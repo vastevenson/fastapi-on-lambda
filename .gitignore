@@ -1,0 +1,4 @@
+.gitattributes
+dep
+.idea/
+*.zip
